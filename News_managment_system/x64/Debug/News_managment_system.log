@@ -1,9 +1,0 @@
-﻿  Admin.cpp
-K:\C++\DS project\News_managment_system 02\News_managment_system\Admin.cpp(225,15): warning C4858: discarding return value: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
-  LoginAndRegister.cpp
-  News_managment_system.cpp
-  Sorted_LinkedList.cpp
-  User.cpp
-  loadAndStoreFiles.cpp
-  Generating Code...
-  News_managment_system.vcxproj -> K:\C++\DS project\News_managment_system 02\x64\Debug\News_managment_system.exe
